@@ -1,0 +1,13 @@
+﻿  atom.cpp
+  cubic_layout.cpp
+c:\users\herpi\onedrive\documents\github\md-model\cpp\cpp\cubic_layout.cpp(18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\herpi\onedrive\documents\github\md-model\cpp\cpp\cubic_layout.cpp(31): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\herpi\onedrive\documents\github\md-model\cpp\cpp\cubic_layout.cpp(32): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\herpi\onedrive\documents\github\md-model\cpp\cpp\cubic_layout.cpp(33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\herpi\onedrive\documents\github\md-model\cpp\cpp\cubic_layout.cpp(34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\herpi\onedrive\documents\github\md-model\cpp\cpp\cubic_layout.cpp(36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\herpi\onedrive\documents\github\md-model\cpp\cpp\cubic_layout.cpp(37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\herpi\onedrive\documents\github\md-model\cpp\cpp\cubic_layout.cpp(38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  Cpp.vcxproj -> C:\Users\herpi\OneDrive\Documents\GitHub\MD-Model\Cpp\Debug\Cpp.exe
